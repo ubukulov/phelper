@@ -1,0 +1,12 @@
+.container{
+    width: 100%; margin: 20px auto;
+}
+.content{
+    width: 1000px; margin: 0 auto;
+}
+.form-signin{
+    width: 300px; margin: 0 auto;
+}
+.clear{
+    clear: both;
+}
